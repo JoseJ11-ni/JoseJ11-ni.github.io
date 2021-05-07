@@ -1,0 +1,204 @@
+.boton1{
+    height: 20%;
+    margin-top: 5%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    background-color: #306f06;
+    font-size: 25px;
+}
+.boton1 img{
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+}
+
+.boton2{
+    height: 20%;
+    margin-top: 15%;
+    margin-left: 2%;
+    margin-bottom: 15%;
+    background-color: #549300;
+    font-size: 25px;
+}
+.boton2 img{
+    float: right;
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton3{
+    height: 20%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-right: 2%;
+    background-color: #95c205;
+    font-size: 25px;
+}
+.boton3 img{
+    float: left;
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton4{
+    height: 20%;
+    margin-top: 15%;
+    margin-bottom: 25%;
+    margin-left: 2%;
+    background-color: #cbd423;
+    font-size: 25px;
+}
+.boton4 img{
+    float: right;
+    width: 20%;
+    height: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton5{
+    height: 20%;
+    margin-top: 15%;
+    margin-bottom: 25%;
+    margin-right: 2%;
+    background-color: #eccc79;
+    font-size: 25px;
+}
+.boton5 img{
+    float: left;
+    width: 20%;
+    height: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton6{
+    height: 20%;
+    margin-top: 15%;
+    margin-left: 22%;
+    margin-bottom: 15%;
+    background-color: #306f06;
+    font-size: 25px;
+}
+.boton6 img{
+    float: right;
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton7{
+    height: 20%;
+    margin-top: 15%;
+    margin-right: 2%;
+    margin-bottom: 15%;
+    background-color: #549300;
+    font-size: 25px;
+}
+.boton7 img{
+    float: left;
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton8{
+    height: 20%;
+    margin-top: 15%;
+    margin-left: 2%;
+    margin-bottom: 15%;
+    background-color: #95c205;
+    font-size: 25px;
+}
+.boton8 img{
+    float: right;
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton9{
+    height: 20%;
+    margin-top: 15%;
+    margin-right: 2%;
+    margin-bottom: 15%;
+    background-color: #cbd423;
+    font-size: 25px;
+}
+.boton9 img{
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton10{
+    height: 20%;
+    margin-top: 15%;
+    margin-left: 2%;
+    margin-bottom: 15%;
+    background-color: #eccc79;
+    font-size: 25px;
+}
+.boton10 img{
+    float: right;
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton11{
+    height: 20%;
+    margin-top: 15%;
+    margin-right: 2%;
+    margin-bottom: 15%;
+    background-color: #306f06;
+    font-size: 25px;
+}
+.boton11 img{
+    float: left;
+    width: 20%;
+    height: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.boton12{
+    height: 20%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 2%;
+    background-color: #549300;
+    font-size: 25px;
+}
+.boton12 img{
+    float: right;
+    width: 30%;
+    height: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.video{
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 40%;
+    height: 10%;
+}
+.videopromo{
+    height: 450px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 5%;
+}
